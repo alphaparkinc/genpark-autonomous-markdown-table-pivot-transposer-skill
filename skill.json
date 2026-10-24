@@ -1,0 +1,12 @@
+{
+  "name": "genpark-autonomous-markdown-table-pivot-transposer-skill",
+  "version": "1.0.0",
+  "description": "Autonomous markdown table parser transposing columns, cross-tabulating dimensions, and computing aggregations",
+  "author": "GenPark AI Engineering",
+  "license": "MIT",
+  "keywords": ["table-transposer", "markdown-pivot", "cross-tabulation", "data-aggregation", "artifact-formatting", "agent-skills"],
+  "mcp": {
+    "supported": true,
+    "entrypoint": "mcp_server.py"
+  }
+}
